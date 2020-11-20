@@ -1,6 +1,6 @@
 # CMU Interactive Data Science Final Project
 
-* **Online URL**: TODO
+* **Online URL**: https://cmu-ids-2020.github.io/fp_hu_giesa_erdolu/
 * **Team members**:
   * Contact person: kigesa@andrew.cmu.edu
   * eerdolu@andrew.cmu.edu
