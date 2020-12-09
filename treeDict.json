@@ -1,0 +1,1252 @@
+[
+    {
+        "key": "architect",
+        "value": 8,
+        "subregion": "architecture"
+    },
+    {
+        "key": "installed",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "utopia",
+        "value": 4,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "communicates",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "control",
+        "value": 11,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "designed",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "improvement",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "instant",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "technology",
+        "value": 19,
+        "subregion": "technology"
+    },
+    {
+        "key": "research",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "history",
+        "value": 8,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "transparencies",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "values",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "built",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "comfy",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "carbon",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "design",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "comfort",
+        "value": 4,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "communicating",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "VCR",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "car",
+        "value": 11,
+        "subregion": "technology"
+    },
+    {
+        "key": "brand",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "dial",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "created",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "technologies",
+        "value": 3,
+        "subregion": "technology"
+    },
+    {
+        "key": "technological",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "invention",
+        "value": 3,
+        "subregion": "technology"
+    },
+    {
+        "key": "planning",
+        "value": 3,
+        "subregion": "architecture"
+    },
+    {
+        "key": "thermostats",
+        "value": 8,
+        "subregion": "technology"
+    },
+    {
+        "key": "heating",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "technoutopian",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "social",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "residential",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "cultures",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "stored",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "savings",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "machines",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "learned",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "vehicle",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "application",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "market",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "conflict",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "Windows",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "environmental",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "cells",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "floor",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "Google",
+        "value": 7,
+        "subregion": "technology"
+    },
+    {
+        "key": "creating",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "smartphones",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "footprint",
+        "value": 4,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "biennials",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "demographics",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "Twitter",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "inhabitable",
+        "value": 3,
+        "subregion": "architecture"
+    },
+    {
+        "key": "ceiling",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "transgressing",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "IT",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "Silicon",
+        "value": 5,
+        "subregion": "technology"
+    },
+    {
+        "key": "produced",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "modernization",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "interfaces",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "technophoria",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "industry",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "urbanism",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "connect",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "housing",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "consumed",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "dystopic",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "environments",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "utopian",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "learning",
+        "value": 5,
+        "subregion": "technology"
+    },
+    {
+        "key": "program",
+        "value": 6,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "future",
+        "value": 4,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "screen",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "adapt",
+        "value": 7,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "produce",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "improve",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "environment",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "untraceable",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "dwell",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "sustainability",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "suburbia",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "controls",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "bath",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "develop",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "biennial",
+        "value": 3,
+        "subregion": "architecture"
+    },
+    {
+        "key": "door",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "Microsoft",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "designing",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "improving",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "houses",
+        "value": 5,
+        "subregion": "architecture"
+    },
+    {
+        "key": "information",
+        "value": 10,
+        "subregion": "technology"
+    },
+    {
+        "key": "building",
+        "value": 4,
+        "subregion": "architecture"
+    },
+    {
+        "key": "fireplace",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "epsilon",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "digital",
+        "value": 6,
+        "subregion": "technology"
+    },
+    {
+        "key": "telephones",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "Apple",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "saved",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "spaces",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "player",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "discomfort",
+        "value": 9,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "producing",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "rebuilding",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "security",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "privacy",
+        "value": 8,
+        "subregion": "technology"
+    },
+    {
+        "key": "button",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "computer",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "cities",
+        "value": 5,
+        "subregion": "architecture"
+    },
+    {
+        "key": "manual",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "town",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "simulate",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "sensor",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "city",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "controlling",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "communicate",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "forms",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "protect",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "products",
+        "value": 16,
+        "subregion": "technology"
+    },
+    {
+        "key": "connecting",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "iPhones",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "kitchen",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "bedroom",
+        "value": 3,
+        "subregion": "architecture"
+    },
+    {
+        "key": "save",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "agglomerations",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "wasting",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "cooling",
+        "value": 4,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "costs",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "change",
+        "value": 13,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "transparent",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "ads",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "public",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "create",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "consumer",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "tablet",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "able",
+        "value": 11,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "programmer",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "vision",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "technophobe",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "build",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "transgression",
+        "value": 4,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "laptop",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "size",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "services",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "object",
+        "value": 3,
+        "subregion": "technology"
+    },
+    {
+        "key": "bed",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "nonpleasurable",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "energy",
+        "value": 19,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "shelves",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "pavilions",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "generations",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "intelligent",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "structures",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "interface",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "equipped",
+        "value": 3,
+        "subregion": "technology"
+    },
+    {
+        "key": "management",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "room",
+        "value": 6,
+        "subregion": "architecture"
+    },
+    {
+        "key": "knob",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "product",
+        "value": 5,
+        "subregion": "technology"
+    },
+    {
+        "key": "devices",
+        "value": 10,
+        "subregion": "technology"
+    },
+    {
+        "key": "feedback",
+        "value": 4,
+        "subregion": "technology"
+    },
+    {
+        "key": "device",
+        "value": 6,
+        "subregion": "technology"
+    },
+    {
+        "key": "data",
+        "value": 10,
+        "subregion": "technology"
+    },
+    {
+        "key": "connected",
+        "value": 4,
+        "subregion": "technology"
+    },
+    {
+        "key": "home",
+        "value": 14,
+        "subregion": "architecture"
+    },
+    {
+        "key": "storeys",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "office",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "secure",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "system",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "plan",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "production",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "servers",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "architecture",
+        "value": 23,
+        "subregion": "architecture"
+    },
+    {
+        "key": "personal",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "elements",
+        "value": 19,
+        "subregion": "architecture"
+    },
+    {
+        "key": "generation",
+        "value": 4,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "development",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "heated",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "iPhone",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "objects",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "loop",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "temperature",
+        "value": 9,
+        "subregion": "technology"
+    },
+    {
+        "key": "tower",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "mobile",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "inventor",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "histories",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "learn",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "plane",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "element",
+        "value": 9,
+        "subregion": "architecture"
+    },
+    {
+        "key": "culture",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "places",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "apartment",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "handicapped",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "wall",
+        "value": 3,
+        "subregion": "architecture"
+    },
+    {
+        "key": "iPod",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "functionality",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "value",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "Nest",
+        "value": 7,
+        "subregion": "technology"
+    },
+    {
+        "key": "curtain",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "access",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "dweller",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "supply",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "pleasurable",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "commercial",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "units",
+        "value": 3,
+        "subregion": "architecture"
+    },
+    {
+        "key": "house",
+        "value": 4,
+        "subregion": "architecture"
+    },
+    {
+        "key": "apartments",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "cars",
+        "value": 5,
+        "subregion": "technology"
+    },
+    {
+        "key": "buildings",
+        "value": 3,
+        "subregion": "architecture"
+    },
+    {
+        "key": "TVs",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "homes",
+        "value": 8,
+        "subregion": "architecture"
+    },
+    {
+        "key": "urban",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "government",
+        "value": 5,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "changed",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "OMA",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "green",
+        "value": 5,
+        "subregion": "architecture"
+    },
+    {
+        "key": "connections",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "phones",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "consumption",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "algorithms",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "informational",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "state",
+        "value": 7,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "Valley",
+        "value": 5,
+        "subregion": "technology"
+    },
+    {
+        "key": "smartphone",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "governments",
+        "value": 2,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "climates",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "intelligence",
+        "value": 7,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "consume",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "curator",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "store",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "heat",
+        "value": 3,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "pavilion",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "urbanistic",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "ID",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "opaque",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "architects",
+        "value": 4,
+        "subregion": "architecture"
+    },
+    {
+        "key": "architectural",
+        "value": 7,
+        "subregion": "architecture"
+    },
+    {
+        "key": "cultural",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "thermostat",
+        "value": 18,
+        "subregion": "technology"
+    },
+    {
+        "key": "ramp",
+        "value": 4,
+        "subregion": "architecture"
+    },
+    {
+        "key": "transparency",
+        "value": 8,
+        "subregion": "technology"
+    },
+    {
+        "key": "technophobia",
+        "value": 1,
+        "subregion": "technology"
+    },
+    {
+        "key": "designs",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "changes",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "rooms",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "connectivity",
+        "value": 2,
+        "subregion": "technology"
+    },
+    {
+        "key": "industrial",
+        "value": 1,
+        "subregion": "interdesciplinary"
+    },
+    {
+        "key": "fireplaces",
+        "value": 1,
+        "subregion": "architecture"
+    },
+    {
+        "key": "dwelling",
+        "value": 2,
+        "subregion": "architecture"
+    },
+    {
+        "key": "space",
+        "value": 5,
+        "subregion": "architecture"
+    }
+]
