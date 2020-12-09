@@ -8,11 +8,7 @@
   * meijieh@andrew.cmu.edu
 * **Track**: Narrative
 
-**Abstract**:
-
-**Work organization and process**:
-
-
+## Abstract
 
 
 
