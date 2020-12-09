@@ -1,4 +1,5 @@
 # CMU Interactive Data Science Final Project
+**Project title**: Tracing Interdisciplinary Design Conversations
 
 * **Online URL**: https://cmu-ids-2020.github.io/fp_hu_giesa_erdolu/
 * **Team members**:
@@ -6,6 +7,14 @@
   * eerdolu@andrew.cmu.edu
   * meijieh@andrew.cmu.edu
 * **Track**: Narrative
+
+**Abstract**:
+
+**Work organization and process**:
+
+
+
+
 
 ## Work distribution
 
