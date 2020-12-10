@@ -10,7 +10,7 @@
 * **Link to video demo**: https://drive.google.com/drive/folders/18pRqbyy4Dg9TUiT8VgUD3CHqKHcBQw3w
   * For the best resolution, please switch to 1080HD or watch the video in full screen mode.
 * **Running Instructions**:
-  * Click the url and start navigating the interactive narrative.
+  * Click the online URL above and start navigating the interactive narrative.
   * We recommend 50% or 67% zoomed out view on a Chrome browser.
   * You will find tips on how to interact with the visualizations. 
 
