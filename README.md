@@ -13,6 +13,8 @@
   * Click the online URL above and start navigating the interactive narrative.
   * We recommend 50% or 67% zoomed out view on a Chrome browser.
   * You will find tips on how to interact with the visualizations. 
+  
+ ![imageHere](ng_mfk_2.png)
 
 ## Abstract
 
