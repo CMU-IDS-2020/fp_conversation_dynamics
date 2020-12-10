@@ -7,6 +7,10 @@
   * eerdolu@andrew.cmu.edu
   * meijieh@andrew.cmu.edu
 * **Track**: Narrative
+* **Link to video**: https://drive.google.com/drive/folders/18pRqbyy4Dg9TUiT8VgUD3CHqKHcBQw3w
+* **Running Instructions**:
+  * Click the url and start navigating the interactive narrative.
+  * You will find tips on how to interact with the visualizations. 
 
 ## Abstract
 
