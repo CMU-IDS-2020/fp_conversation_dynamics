@@ -18,7 +18,7 @@
 
 ## Abstract
 
-
+With the increasing convergence of digital and architectural practices, a common interdisciplinary encounter of today is between architects and tech designers. Tech companies, startups, designers, and entrepreneurs are increasingly interested in homes, offices, infrastructures, and cities as sites of deployment; and architecture offices and architects in return engage with software, sensors, robots, and devices as their instruments. The mutual interest in each other's work and artifacts start to bring these two figures more often in conversations, debates, or collaborations within labs or projects. Because of different knowledge backgrounds and discourses, an interdisciplinary conversation can at times involve low levels of engagement as well as exchanges and gaps. Producing insights on these between the disciplinary discourses of architects and tech designers is a crucial first step towards constructing a more productive communication between the two groups, which could help to produce distinct perspectives, artifacts, and knowledge out of their collaborations. This paper reports on a case study of an interdisciplinary conversation between two architects and a tech designer. Within the case study, we investigated the engagement, exchanges, and gaps between these actors’ disciplinary discourses by text processing and visualization. By doing this through text processing and visualization, we also explored the potential of these methods in understanding these conversational dynamics. The case study and visualizations revealed that, even though the architects and the tech designer engage through a sharing and exchange across their discourses, there are issues in the qualities of that sharing and exchange.
 
 ## Work distribution
 
