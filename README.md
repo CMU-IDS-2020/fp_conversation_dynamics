@@ -9,6 +9,7 @@
 * **Track**: Narrative
 * **Link to video demo**: https://drive.google.com/drive/folders/18pRqbyy4Dg9TUiT8VgUD3CHqKHcBQw3w
   * For the best resolution, please switch to 1080HD or watch the video in full screen mode.
+* **Link to report**: https://canvas.cmu.edu/courses/18615/assignments/281708/submissions/40620
 * **Running Instructions**:
   * Click the online URL above and start navigating the interactive narrative.
   * We recommend 50% or 67% zoomed out view on a Chrome browser.
