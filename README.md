@@ -42,8 +42,6 @@ We worked on the details of those diagrams through sketches together with the st
 
 We collectively discussed the analysis and findings of the study by reflecting on the visualizations. After that, final production began. Throughout this stage, we routinely met over zoom. These meetings were used to help each other overcome learning obstacles with the d3 library and to update each other about the visualization process. In these meetings we also discussed design decisions such as color and formatting, and interaction potentials such as the effectiveness of zooming or using a tooltip. Finally, in these discussions, we were keenly aware of the narrative and the ways that narrative and visualization would best augment each other. In the final production, Emek took the lead on network graphs and interactions along with narrative writing and producing the video. Meijie worked with bar charts and interactions; and Katherine worked with the final part of text processing, visualizations, and interactions. This final production part was an even share of executing the parts of the interactive narrative. 
 
-Update towards the end of the project.
-
 ## Deliverables
 
 ### Proposal
