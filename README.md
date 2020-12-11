@@ -22,6 +22,26 @@ With the increasing convergence of digital and architectural practices, a common
 
 ## Work distribution
 
+### Discussions on Scope 
+
+Early on, we got together and brainstormed project ideas, soon settling on the analysis of interdisciplinary design conversations. After discussing affordances and limitations of analyzing multiple conversations, we decided that the ability to dive deeply into the text was of particular importance to our work, and would fit better into our mixed-method approach of computational and qualitative analysis of conversations. So, we chose to focus on a single conversation. We were interested in the encounters between architects, designers, and tech designers. So we found a few potential conversations that involve these disciplinary figures. As mentioned, qualitative evaluation was an important part of our work. So we each watched the conversation, and got together over zoom to discuss where we might be able to draw out interesting insights through visualization. Based on these discussions, we prepared our proposal. These were all collective efforts where each member took equal roles.
+
+### Designing the framework and study
+
+To begin the process, we briefly looked at background literature in linguistics, computational linguistics, and text visualization in order to understand analytical approaches to conversation analysis. Parallel to that, we identified a list of questions to guide the study. To investigate these questions, we operationalized key dimensions in a conversation based on linguistics and other relevant literature. This was also important to frame the text processing part of the project. A few of the dimensions required us to identify what we called as “disciplinary words” in the conversation. That required each member to go through the text again, and we had to have a few meetings to reach a consensus on these words.
+
+This was followed by discussions on the technical framework. NLTK / Python for text processing was a no brainer for us. For visualizations, we debated Streamlit versus D3.js, and we ended up choosing HTML / CSS / D3.js both for its capabilities as well as for a learning opportunity for ourselves. Each member had to do work to learn more about D3.js. These were also collective efforts where each member took equal roles.
+
+### First Round of Work 
+
+As the technical framework was ready, we had a few design discussions on the type of visualizations that would be effective to visualize the dimensions we identified. We first decided on bar graphs to create histograms of the conversations. We also felt network graphs would be especially meaningful in showing relations between actors and words and between actors, or showing levels of engagement and exchange when one conceptualizes a conversation as a connection between actors. These networks also opened potentials for interaction by highlighting weights or frequencies of use, or degrees of connections, sharing or exchange between nodes (in our case, words or actors). We also felt a tree diagram would be a good way of highlighting word categorizations. Buttons to switch layers, dragging through timelines, and sliders were pretty effective for us to represent several layers of information within this set of visualizations. 
+
+We worked on the details of those diagrams through sketches together with the structure of the narrative, and where each diagram sits. Then we shared the work based on the dimensions and by different parts of text processing. Initially, Katherine worked heavily on the text processing part and producing JSONs and less on the visualizations, while Emek and Meijie focused on developing the draft website for interactive narrative by HTML / CSS / Javascript, and less on text processing. This is how we reached the design review. After the text processing was finished, all three members focused on producing the visualizations and we started to push the work towards completion.  
+
+### Final production
+
+We collectively discussed the analysis and findings of the study by reflecting on the visualizations. After that, final production began. Throughout this stage, we routinely met over zoom. These meetings were used to help each other overcome learning obstacles with the d3 library and to update each other about the visualization process. In these meetings we also discussed design decisions such as color and formatting, and interaction potentials such as the effectiveness of zooming or using a tooltip. Finally, in these discussions, we were keenly aware of the narrative and the ways that narrative and visualization would best augment each other. In the final production, Emek took the lead on network graphs and interactions along with narrative writing and producing the video. Meijie worked with bar charts and interactions; and Katherine worked with the final part of text processing, visualizations, and interactions. This final production part was an even share of executing the parts of the interactive narrative. 
+
 Update towards the end of the project.
 
 ## Deliverables
